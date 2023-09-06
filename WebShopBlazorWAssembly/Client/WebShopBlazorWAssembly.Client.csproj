@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shared\WebShopBlazorWAssembly.Shared.csproj" />
+    <ProjectReference Include="..\Shared\WebShopBlazorWebAssembly.Shared.csproj" />
   </ItemGroup>
 
 </Project>

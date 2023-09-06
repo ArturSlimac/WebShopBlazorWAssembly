@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using WebShopBlazorWAssembly.Shared;
 
-namespace WebShopBlazorWAssembly.Server.Controllers
+namespace WebShopBlazorWebAssembly.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

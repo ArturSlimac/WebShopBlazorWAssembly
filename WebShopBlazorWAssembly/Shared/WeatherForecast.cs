@@ -1,4 +1,4 @@
-namespace WebShopBlazorWAssembly.Shared
+namespace WebShopBlazorWebAssembly.Shared
 {
     public class WeatherForecast
     {
